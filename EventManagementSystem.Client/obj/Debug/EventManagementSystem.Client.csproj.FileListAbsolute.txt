@@ -1,0 +1,17 @@
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.Client\bin\Debug\EventManagementSystem.Client.exe.config
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.Client\bin\Debug\EventManagementSystem.Client.exe
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.Client\bin\Debug\EventManagementSystem.Client.pdb
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.Client\bin\Debug\EntityFramework.dll
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.Client\bin\Debug\EventManagementSystem.DB.dll
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.Client\bin\Debug\EventManagementSystem.Model.dll
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.Client\bin\Debug\EventManagementSystem.DB.pdb
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.Client\bin\Debug\EventManagementSystem.DB.dll.config
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.Client\bin\Debug\EventManagementSystem.Model.pdb
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.Client\bin\Debug\EventManagementSystem.Model.dll.config
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.Client\bin\Debug\EntityFramework.xml
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.Client\obj\Debug\EventManagementSystem.Client.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.Client\obj\Debug\EventManagementSystem.Client.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.Client\obj\Debug\EventManagementSystem.Client.exe
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.Client\obj\Debug\EventManagementSystem.Client.pdb

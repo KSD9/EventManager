@@ -1,0 +1,14 @@
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.DB\bin\Debug\EventManagementSystem.DB.dll.config
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.DB\bin\Debug\EventManagementSystem.DB.dll
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.DB\bin\Debug\EventManagementSystem.DB.pdb
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.DB\bin\Debug\EntityFramework.dll
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.DB\bin\Debug\EventManagementSystem.Model.dll
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.DB\bin\Debug\EventManagementSystem.Model.pdb
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.DB\bin\Debug\EventManagementSystem.Model.dll.config
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.DB\bin\Debug\EntityFramework.xml
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.DB\obj\Debug\EventManagementSystem.DB.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.DB\obj\Debug\EventManagementSystem.DB.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.DB\obj\Debug\EventManagementSystem.DB.dll
+C:\Users\Ivo\source\repos\EventManagementSystem\EventManagementSystem.DB\obj\Debug\EventManagementSystem.DB.pdb
